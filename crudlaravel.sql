@@ -10,8 +10,8 @@ SET FOREIGN_KEY_CHECKS = 0;;
 -- ----------------------------------------------------------------------------
 -- Schema crudLaravel
 -- ----------------------------------------------------------------------------
-DROP SCHEMA IF EXISTS `crudLaravel` ;
-CREATE SCHEMA IF NOT EXISTS `crudLaravel` ;
+DROP SCHEMA IF EXISTS `crudlaravel` ;
+CREATE SCHEMA IF NOT EXISTS `crudlaravel` ;
 
 -- ----------------------------------------------------------------------------
 -- Table crudLaravel.users
