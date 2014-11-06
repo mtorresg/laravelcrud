@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------
 -- MySQL Workbench Migration
--- Migrated Schemata: crudLaravel
+-- Migrated Schemata: crudlaravel
 -- Source Schemata: crudlaravel
 -- Created: Tue Nov 04 15:41:31 2014
 -- ----------------------------------------------------------------------------
@@ -8,10 +8,10 @@
 SET FOREIGN_KEY_CHECKS = 0;;
 
 -- ----------------------------------------------------------------------------
--- Schema crudLaravel
+-- Schema crudlaravel
 -- ----------------------------------------------------------------------------
-DROP SCHEMA IF EXISTS `crudLaravel` ;
-CREATE SCHEMA IF NOT EXISTS `crudLaravel` ;
+DROP SCHEMA IF EXISTS `crudlaravel` ;
+CREATE SCHEMA IF NOT EXISTS `crudlaravel` ;
 
 -- ----------------------------------------------------------------------------
 -- Table crudLaravel.users
